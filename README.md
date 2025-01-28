@@ -37,3 +37,45 @@ Este é um pequeno guia de comandos Markdown.
 1. Item
 2. Item
 ```
+
+--- 
+
+## Links
+
+Texto
+```
+[Texto](Link)
+```
+
+Imagens
+```
+![Texto alternativo](Link da Imagem)
+```
+
+## Tabelas
+
+```
+| Temas | Status |
+| ----- | ------ |
+| Titulo | Concluido |
+| Textos | Concluido |
+| Listas | Concluido |
+| Links | Concluido |
+| Tabelas | Concluido |
+```
+
+---
+
+## Códigos
+
+```
+```System.out.println("Manga");```
+```
+
+---
+
+## Citações
+
+```
+> Texto
+```
